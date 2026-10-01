@@ -1,0 +1,5 @@
+console.log("=" .repeat(40));
+console.log("           NOTA FISCAL          ");
+console.log("=".repeat(40));
+
+const item = "mousse de chocolate";
